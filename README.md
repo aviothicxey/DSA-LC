@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -83,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aviothicxey/DSA-LC/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
