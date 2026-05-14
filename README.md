@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/aviothicxey/DSA-LC/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aviothicxey/DSA-LC/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/aviothicxey/DSA-LC/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aviothicxey/DSA-LC/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aviothicxey/DSA-LC/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
