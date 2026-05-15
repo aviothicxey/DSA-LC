@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/aviothicxey/DSA-LC/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/aviothicxey/DSA-LC/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/aviothicxey/DSA-LC/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aviothicxey/DSA-LC/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aviothicxey/DSA-LC/tree/main/0048-rotate-image/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
