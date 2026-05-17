@@ -10,19 +10,13 @@
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root == null) return null;
-
-        if(root.val == p.val || root.val == q.val)return root;
-
-       TreeNode LLCA = lowestCommonAncestor(root.left , p , q);
-        TreeNode RLCA = lowestCommonAncestor(root.right , p , q);
-
-        if(LLCA != null && RLCA != null){
-            return root;
-        }else if(LLCA != null){
-            return LLCA;
-        }else {
-            return RLCA;
-        }
+       if(root == null)return null;
+       if(p.val > root.val && q.val > root.val){
+        return lowestCommonAncestor(root.right , p , q);
+       }
+       if(p.val < root.val && q.val < root.val){
+        return lowestCommonAncestor(root.left , p , q);
+       }
+       return root;
     }
 }
