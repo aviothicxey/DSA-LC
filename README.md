@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/aviothicxey/DSA-LC/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/aviothicxey/DSA-LC/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/aviothicxey/DSA-LC/tree/main/0143-reorder-list/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/aviothicxey/DSA-LC/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
