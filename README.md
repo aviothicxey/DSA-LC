@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/aviothicxey/DSA-LC/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Union-Find
@@ -127,10 +128,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/aviothicxey/DSA-LC/tree/main/0053-maximum-subarray/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/aviothicxey/DSA-LC/tree/main/0148-sort-list/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/aviothicxey/DSA-LC/tree/main/0148-sort-list/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +163,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aviothicxey/DSA-LC/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
