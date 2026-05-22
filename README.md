@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aviothicxey/DSA-LC/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/aviothicxey/DSA-LC/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aviothicxey/DSA-LC/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aviothicxey/DSA-LC/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/aviothicxey/DSA-LC/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/aviothicxey/DSA-LC/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aviothicxey/DSA-LC/tree/main/0073-set-matrix-zeroes/) | Medium |
