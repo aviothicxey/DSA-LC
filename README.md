@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/aviothicxey/DSA-LC/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0994-rotting-oranges](https://github.com/aviothicxey/DSA-LC/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aviothicxey/DSA-LC/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0994-rotting-oranges](https://github.com/aviothicxey/DSA-LC/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aviothicxey/DSA-LC/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Union-Find
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aviothicxey/DSA-LC/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aviothicxey/DSA-LC/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0994-rotting-oranges](https://github.com/aviothicxey/DSA-LC/tree/main/0994-rotting-oranges/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
