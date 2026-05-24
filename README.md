@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aviothicxey/DSA-LC/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/aviothicxey/DSA-LC/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aviothicxey/DSA-LC/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/aviothicxey/DSA-LC/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/aviothicxey/DSA-LC/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/aviothicxey/DSA-LC/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aviothicxey/DSA-LC/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/aviothicxey/DSA-LC/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aviothicxey/DSA-LC/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aviothicxey/DSA-LC/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/aviothicxey/DSA-LC/tree/main/0739-daily-temperatures/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aviothicxey/DSA-LC/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
