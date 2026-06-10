@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/aviothicxey/DSA-LC/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/aviothicxey/DSA-LC/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/aviothicxey/DSA-LC/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/aviothicxey/DSA-LC/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aviothicxey/DSA-LC/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/aviothicxey/DSA-LC/tree/main/0547-number-of-provinces/) | Medium |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aviothicxey/DSA-LC/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aviothicxey/DSA-LC/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/aviothicxey/DSA-LC/tree/main/0547-number-of-provinces/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -179,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aviothicxey/DSA-LC/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aviothicxey/DSA-LC/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/aviothicxey/DSA-LC/tree/main/0994-rotting-oranges/) | Medium |
 ## Math
 | Problem Name | Difficulty |
