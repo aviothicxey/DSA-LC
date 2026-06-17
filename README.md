@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/aviothicxey/DSA-LC/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/aviothicxey/DSA-LC/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/aviothicxey/DSA-LC/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/aviothicxey/DSA-LC/tree/main/0994-rotting-oranges/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aviothicxey/DSA-LC/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/aviothicxey/DSA-LC/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0733-flood-fill](https://github.com/aviothicxey/DSA-LC/tree/main/0733-flood-fill/) | Easy |
@@ -183,12 +185,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/aviothicxey/DSA-LC/tree/main/0053-maximum-subarray/) | Medium |
+| [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aviothicxey/DSA-LC/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aviothicxey/DSA-LC/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/aviothicxey/DSA-LC/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/aviothicxey/DSA-LC/tree/main/0994-rotting-oranges/) | Medium |
 ## Math
