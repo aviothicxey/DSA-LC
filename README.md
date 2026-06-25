@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aviothicxey/DSA-LC/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aviothicxey/DSA-LC/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aviothicxey/DSA-LC/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/aviothicxey/DSA-LC/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aviothicxey/DSA-LC/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aviothicxey/DSA-LC/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aviothicxey/DSA-LC/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1840-maximum-building-height](https://github.com/aviothicxey/DSA-LC/tree/main/1840-maximum-building-height/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aviothicxey/DSA-LC/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/aviothicxey/DSA-LC/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aviothicxey/DSA-LC/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aviothicxey/DSA-LC/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aviothicxey/DSA-LC/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/aviothicxey/DSA-LC/tree/main/0148-sort-list/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aviothicxey/DSA-LC/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aviothicxey/DSA-LC/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,4 +254,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/aviothicxey/DSA-LC/tree/main/0547-number-of-provinces/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aviothicxey/DSA-LC/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
