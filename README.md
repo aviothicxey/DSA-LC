@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/aviothicxey/DSA-LC/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/aviothicxey/DSA-LC/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/aviothicxey/DSA-LC/tree/main/0636-exclusive-time-of-functions/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/aviothicxey/DSA-LC/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/aviothicxey/DSA-LC/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/aviothicxey/DSA-LC/tree/main/0739-daily-temperatures/) | Medium |
 | [0994-rotting-oranges](https://github.com/aviothicxey/DSA-LC/tree/main/0994-rotting-oranges/) | Medium |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/aviothicxey/DSA-LC/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aviothicxey/DSA-LC/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -290,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/aviothicxey/DSA-LC/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
