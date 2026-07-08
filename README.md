@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/aviothicxey/DSA-LC/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/aviothicxey/DSA-LC/tree/main/0018-4sum/) | Medium |
 | [0143-reorder-list](https://github.com/aviothicxey/DSA-LC/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/aviothicxey/DSA-LC/tree/main/0148-sort-list/) | Medium |
 ## Stack
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/aviothicxey/DSA-LC/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/aviothicxey/DSA-LC/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/aviothicxey/DSA-LC/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/aviothicxey/DSA-LC/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/aviothicxey/DSA-LC/tree/main/0049-group-anagrams/) | Medium |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/aviothicxey/DSA-LC/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/aviothicxey/DSA-LC/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/aviothicxey/DSA-LC/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/aviothicxey/DSA-LC/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
