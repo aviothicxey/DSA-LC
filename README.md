@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/aviothicxey/DSA-LC/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/aviothicxey/DSA-LC/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/aviothicxey/DSA-LC/tree/main/0739-daily-temperatures/) | Medium |
+| [0941-valid-mountain-array](https://github.com/aviothicxey/DSA-LC/tree/main/0941-valid-mountain-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/aviothicxey/DSA-LC/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1020-number-of-enclaves](https://github.com/aviothicxey/DSA-LC/tree/main/1020-number-of-enclaves/) | Medium |
