@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/aviothicxey/DSA-LC/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1840-maximum-building-height](https://github.com/aviothicxey/DSA-LC/tree/main/1840-maximum-building-height/) | Hard |
 | [1922-count-good-numbers](https://github.com/aviothicxey/DSA-LC/tree/main/1922-count-good-numbers/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aviothicxey/DSA-LC/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,4 +340,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/aviothicxey/DSA-LC/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0620-not-boring-movies](https://github.com/aviothicxey/DSA-LC/tree/main/0620-not-boring-movies/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/aviothicxey/DSA-LC/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aviothicxey/DSA-LC/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
