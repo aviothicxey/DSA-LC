@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/aviothicxey/DSA-LC/tree/main/0049-group-anagrams/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/aviothicxey/DSA-LC/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aviothicxey/DSA-LC/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aviothicxey/DSA-LC/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/aviothicxey/DSA-LC/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/aviothicxey/DSA-LC/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Queue
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/aviothicxey/DSA-LC/tree/main/1840-maximum-building-height/) | Hard |
 | [1922-count-good-numbers](https://github.com/aviothicxey/DSA-LC/tree/main/1922-count-good-numbers/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aviothicxey/DSA-LC/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aviothicxey/DSA-LC/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/0022-generate-parentheses/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aviothicxey/DSA-LC/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,4 +347,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aviothicxey/DSA-LC/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aviothicxey/DSA-LC/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aviothicxey/DSA-LC/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
