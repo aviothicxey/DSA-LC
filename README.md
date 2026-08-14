@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0127-word-ladder](https://github.com/aviothicxey/DSA-LC/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/aviothicxey/DSA-LC/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/aviothicxey/DSA-LC/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/aviothicxey/DSA-LC/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aviothicxey/DSA-LC/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/aviothicxey/DSA-LC/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0229-majority-element-ii/) | Medium |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/aviothicxey/DSA-LC/tree/main/0049-group-anagrams/) | Medium |
+| [0127-word-ladder](https://github.com/aviothicxey/DSA-LC/tree/main/0127-word-ladder/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/aviothicxey/DSA-LC/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0500-keyboard-row](https://github.com/aviothicxey/DSA-LC/tree/main/0500-keyboard-row/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aviothicxey/DSA-LC/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -407,4 +410,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aviothicxey/DSA-LC/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/aviothicxey/DSA-LC/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
