@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/aviothicxey/DSA-LC/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/aviothicxey/DSA-LC/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
+| [0463-island-perimeter](https://github.com/aviothicxey/DSA-LC/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/aviothicxey/DSA-LC/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/aviothicxey/DSA-LC/tree/main/0733-flood-fill/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aviothicxey/DSA-LC/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0463-island-perimeter](https://github.com/aviothicxey/DSA-LC/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/aviothicxey/DSA-LC/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/aviothicxey/DSA-LC/tree/main/0733-flood-fill/) | Easy |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aviothicxey/DSA-LC/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0463-island-perimeter](https://github.com/aviothicxey/DSA-LC/tree/main/0463-island-perimeter/) | Easy |
 | [0500-keyboard-row](https://github.com/aviothicxey/DSA-LC/tree/main/0500-keyboard-row/) | Easy |
 | [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/aviothicxey/DSA-LC/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0130-surrounded-regions](https://github.com/aviothicxey/DSA-LC/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
+| [0463-island-perimeter](https://github.com/aviothicxey/DSA-LC/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/aviothicxey/DSA-LC/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/aviothicxey/DSA-LC/tree/main/0994-rotting-oranges/) | Medium |
