@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/aviothicxey/DSA-LC/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/aviothicxey/DSA-LC/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/aviothicxey/DSA-LC/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/aviothicxey/DSA-LC/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/aviothicxey/DSA-LC/tree/main/0620-not-boring-movies/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/aviothicxey/DSA-LC/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Enumeration
