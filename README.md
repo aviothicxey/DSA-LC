@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/aviothicxey/DSA-LC/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/aviothicxey/DSA-LC/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/aviothicxey/DSA-LC/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aviothicxey/DSA-LC/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/aviothicxey/DSA-LC/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/aviothicxey/DSA-LC/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/aviothicxey/DSA-LC/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/aviothicxey/DSA-LC/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/aviothicxey/DSA-LC/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aviothicxey/DSA-LC/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/aviothicxey/DSA-LC/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/aviothicxey/DSA-LC/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/aviothicxey/DSA-LC/tree/main/0636-exclusive-time-of-functions/) | Medium |
+| [0695-max-area-of-island](https://github.com/aviothicxey/DSA-LC/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/aviothicxey/DSA-LC/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/aviothicxey/DSA-LC/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/aviothicxey/DSA-LC/tree/main/0739-daily-temperatures/) | Medium |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/aviothicxey/DSA-LC/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/aviothicxey/DSA-LC/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/aviothicxey/DSA-LC/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/aviothicxey/DSA-LC/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/aviothicxey/DSA-LC/tree/main/1020-number-of-enclaves/) | Medium |
 ## Divide and Conquer
@@ -293,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/aviothicxey/DSA-LC/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
+| [0695-max-area-of-island](https://github.com/aviothicxey/DSA-LC/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aviothicxey/DSA-LC/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/aviothicxey/DSA-LC/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/aviothicxey/DSA-LC/tree/main/1020-number-of-enclaves/) | Medium |
