@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/aviothicxey/DSA-LC/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/aviothicxey/DSA-LC/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0997-find-the-town-judge](https://github.com/aviothicxey/DSA-LC/tree/main/0997-find-the-town-judge/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aviothicxey/DSA-LC/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aviothicxey/DSA-LC/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aviothicxey/DSA-LC/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-valid-mountain-array](https://github.com/aviothicxey/DSA-LC/tree/main/0941-valid-mountain-array/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/aviothicxey/DSA-LC/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0994-rotting-oranges](https://github.com/aviothicxey/DSA-LC/tree/main/0994-rotting-oranges/) | Medium |
+| [0997-find-the-town-judge](https://github.com/aviothicxey/DSA-LC/tree/main/0997-find-the-town-judge/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1020-number-of-enclaves](https://github.com/aviothicxey/DSA-LC/tree/main/1020-number-of-enclaves/) | Medium |
 | [1140-stone-game-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1140-stone-game-ii/) | Medium |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/aviothicxey/DSA-LC/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/aviothicxey/DSA-LC/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/aviothicxey/DSA-LC/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0997-find-the-town-judge](https://github.com/aviothicxey/DSA-LC/tree/main/0997-find-the-town-judge/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/aviothicxey/DSA-LC/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
