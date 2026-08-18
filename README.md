@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/aviothicxey/DSA-LC/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/aviothicxey/DSA-LC/tree/main/0130-surrounded-regions/) | Medium |
+| [0133-clone-graph](https://github.com/aviothicxey/DSA-LC/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/aviothicxey/DSA-LC/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/aviothicxey/DSA-LC/tree/main/0463-island-perimeter/) | Easy |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aviothicxey/DSA-LC/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/aviothicxey/DSA-LC/tree/main/0130-surrounded-regions/) | Medium |
+| [0133-clone-graph](https://github.com/aviothicxey/DSA-LC/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/aviothicxey/DSA-LC/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/aviothicxey/DSA-LC/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0133-clone-graph](https://github.com/aviothicxey/DSA-LC/tree/main/0133-clone-graph/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aviothicxey/DSA-LC/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -361,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/aviothicxey/DSA-LC/tree/main/0133-clone-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/aviothicxey/DSA-LC/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/aviothicxey/DSA-LC/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/aviothicxey/DSA-LC/tree/main/0802-find-eventual-safe-states/) | Medium |
