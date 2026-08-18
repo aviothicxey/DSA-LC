@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1193-monthly-transactions-i](https://github.com/aviothicxey/DSA-LC/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/aviothicxey/DSA-LC/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/aviothicxey/DSA-LC/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1341-movie-rating](https://github.com/aviothicxey/DSA-LC/tree/main/1341-movie-rating/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/aviothicxey/DSA-LC/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
