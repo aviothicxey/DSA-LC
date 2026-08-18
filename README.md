@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/aviothicxey/DSA-LC/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0500-keyboard-row](https://github.com/aviothicxey/DSA-LC/tree/main/0500-keyboard-row/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/aviothicxey/DSA-LC/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/aviothicxey/DSA-LC/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aviothicxey/DSA-LC/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aviothicxey/DSA-LC/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aviothicxey/DSA-LC/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
