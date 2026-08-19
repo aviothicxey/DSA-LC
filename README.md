@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/aviothicxey/DSA-LC/tree/main/1020-number-of-enclaves/) | Medium |
 | [1140-stone-game-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/aviothicxey/DSA-LC/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/aviothicxey/DSA-LC/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/aviothicxey/DSA-LC/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aviothicxey/DSA-LC/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1563-stone-game-v](https://github.com/aviothicxey/DSA-LC/tree/main/1563-stone-game-v/) | Hard |
