@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/aviothicxey/DSA-LC/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aviothicxey/DSA-LC/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aviothicxey/DSA-LC/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aviothicxey/DSA-LC/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aviothicxey/DSA-LC/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aviothicxey/DSA-LC/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aviothicxey/DSA-LC/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aviothicxey/DSA-LC/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/aviothicxey/DSA-LC/tree/main/3731-find-missing-elements/) | Easy |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/aviothicxey/DSA-LC/tree/main/1840-maximum-building-height/) | Hard |
 | [1922-count-good-numbers](https://github.com/aviothicxey/DSA-LC/tree/main/1922-count-good-numbers/) | Medium |
 | [2029-stone-game-ix](https://github.com/aviothicxey/DSA-LC/tree/main/2029-stone-game-ix/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aviothicxey/DSA-LC/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aviothicxey/DSA-LC/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aviothicxey/DSA-LC/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Prefix Sum
@@ -347,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aviothicxey/DSA-LC/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/aviothicxey/DSA-LC/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aviothicxey/DSA-LC/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aviothicxey/DSA-LC/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -436,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aviothicxey/DSA-LC/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aviothicxey/DSA-LC/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
@@ -474,4 +479,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/aviothicxey/DSA-LC/tree/main/0127-word-ladder/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aviothicxey/DSA-LC/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 <!---LeetCode Topics End-->
