@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/aviothicxey/DSA-LC/tree/main/1927-sum-game/) | Medium |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/aviothicxey/DSA-LC/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aviothicxey/DSA-LC/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aviothicxey/DSA-LC/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aviothicxey/DSA-LC/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aviothicxey/DSA-LC/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/aviothicxey/DSA-LC/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aviothicxey/DSA-LC/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aviothicxey/DSA-LC/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aviothicxey/DSA-LC/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Topological Sort
