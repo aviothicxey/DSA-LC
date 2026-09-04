@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aviothicxey/DSA-LC/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/aviothicxey/DSA-LC/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aviothicxey/DSA-LC/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/aviothicxey/DSA-LC/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1140-stone-game-ii/) | Medium |
 | [1872-stone-game-viii](https://github.com/aviothicxey/DSA-LC/tree/main/1872-stone-game-viii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aviothicxey/DSA-LC/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/aviothicxey/DSA-LC/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
