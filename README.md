@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/aviothicxey/DSA-LC/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/aviothicxey/DSA-LC/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/aviothicxey/DSA-LC/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/aviothicxey/DSA-LC/tree/main/0088-merge-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/aviothicxey/DSA-LC/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/aviothicxey/DSA-LC/tree/main/0148-sort-list/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/aviothicxey/DSA-LC/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aviothicxey/DSA-LC/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/aviothicxey/DSA-LC/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0088-merge-sorted-array](https://github.com/aviothicxey/DSA-LC/tree/main/0088-merge-sorted-array/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/aviothicxey/DSA-LC/tree/main/0130-surrounded-regions/) | Medium |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/aviothicxey/DSA-LC/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/aviothicxey/DSA-LC/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/aviothicxey/DSA-LC/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/aviothicxey/DSA-LC/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/aviothicxey/DSA-LC/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0229-majority-element-ii/) | Medium |
