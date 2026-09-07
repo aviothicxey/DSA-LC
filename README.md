@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aviothicxey/DSA-LC/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aviothicxey/DSA-LC/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0463-island-perimeter](https://github.com/aviothicxey/DSA-LC/tree/main/0463-island-perimeter/) | Easy |
 | [0500-keyboard-row](https://github.com/aviothicxey/DSA-LC/tree/main/0500-keyboard-row/) | Easy |
 | [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aviothicxey/DSA-LC/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aviothicxey/DSA-LC/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/aviothicxey/DSA-LC/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1840-maximum-building-height](https://github.com/aviothicxey/DSA-LC/tree/main/1840-maximum-building-height/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aviothicxey/DSA-LC/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/aviothicxey/DSA-LC/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/aviothicxey/DSA-LC/tree/main/0135-candy/) | Hard |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aviothicxey/DSA-LC/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/aviothicxey/DSA-LC/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/aviothicxey/DSA-LC/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1927-sum-game](https://github.com/aviothicxey/DSA-LC/tree/main/1927-sum-game/) | Medium |
