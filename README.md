@@ -374,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aviothicxey/DSA-LC/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aviothicxey/DSA-LC/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0836-rectangle-overlap](https://github.com/aviothicxey/DSA-LC/tree/main/0836-rectangle-overlap/) | Easy |
 | [1140-stone-game-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/aviothicxey/DSA-LC/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/aviothicxey/DSA-LC/tree/main/1563-stone-game-v/) | Hard |
@@ -574,4 +575,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aviothicxey/DSA-LC/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/aviothicxey/DSA-LC/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
