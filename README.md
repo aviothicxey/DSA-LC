@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/aviothicxey/DSA-LC/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/aviothicxey/DSA-LC/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aviothicxey/DSA-LC/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/aviothicxey/DSA-LC/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aviothicxey/DSA-LC/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/aviothicxey/DSA-LC/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/aviothicxey/DSA-LC/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aviothicxey/DSA-LC/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1840-maximum-building-height](https://github.com/aviothicxey/DSA-LC/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/aviothicxey/DSA-LC/tree/main/1872-stone-game-viii/) | Hard |
 | [1922-count-good-numbers](https://github.com/aviothicxey/DSA-LC/tree/main/1922-count-good-numbers/) | Medium |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/aviothicxey/DSA-LC/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1140-stone-game-ii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aviothicxey/DSA-LC/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/aviothicxey/DSA-LC/tree/main/1872-stone-game-viii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aviothicxey/DSA-LC/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/aviothicxey/DSA-LC/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -562,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aviothicxey/DSA-LC/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aviothicxey/DSA-LC/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Design
 | Problem Name | Difficulty |
