@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aviothicxey/DSA-LC/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aviothicxey/DSA-LC/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/aviothicxey/DSA-LC/tree/main/1563-stone-game-v/) | Hard |
+| [1572-matrix-diagonal-sum](https://github.com/aviothicxey/DSA-LC/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/aviothicxey/DSA-LC/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aviothicxey/DSA-LC/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1840-maximum-building-height](https://github.com/aviothicxey/DSA-LC/tree/main/1840-maximum-building-height/) | Hard |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/aviothicxey/DSA-LC/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/aviothicxey/DSA-LC/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/aviothicxey/DSA-LC/tree/main/1020-number-of-enclaves/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/aviothicxey/DSA-LC/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aviothicxey/DSA-LC/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Math
 | Problem Name | Difficulty |
