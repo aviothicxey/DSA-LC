@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/aviothicxey/DSA-LC/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aviothicxey/DSA-LC/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aviothicxey/DSA-LC/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aviothicxey/DSA-LC/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aviothicxey/DSA-LC/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aviothicxey/DSA-LC/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aviothicxey/DSA-LC/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/aviothicxey/DSA-LC/tree/main/0500-keyboard-row/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/aviothicxey/DSA-LC/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aviothicxey/DSA-LC/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/aviothicxey/DSA-LC/tree/main/1927-sum-game/) | Medium |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/aviothicxey/DSA-LC/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aviothicxey/DSA-LC/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aviothicxey/DSA-LC/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/aviothicxey/DSA-LC/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aviothicxey/DSA-LC/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aviothicxey/DSA-LC/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1840-maximum-building-height](https://github.com/aviothicxey/DSA-LC/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/aviothicxey/DSA-LC/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/aviothicxey/DSA-LC/tree/main/2029-stone-game-ix/) | Medium |
