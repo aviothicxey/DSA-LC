@@ -636,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Primality Test
