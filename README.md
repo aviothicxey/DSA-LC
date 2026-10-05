@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/aviothicxey/DSA-LC/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/aviothicxey/DSA-LC/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/aviothicxey/DSA-LC/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/aviothicxey/DSA-LC/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/aviothicxey/DSA-LC/tree/main/0394-decode-string/) | Medium |
 | [0500-keyboard-row](https://github.com/aviothicxey/DSA-LC/tree/main/0500-keyboard-row/) | Easy |
+| [0856-score-of-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/aviothicxey/DSA-LC/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -641,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Primality Test
