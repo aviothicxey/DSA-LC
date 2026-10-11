@@ -424,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/aviothicxey/DSA-LC/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aviothicxey/DSA-LC/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
