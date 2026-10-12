@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/aviothicxey/DSA-LC/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aviothicxey/DSA-LC/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0204-count-primes/) | Medium |
+| [0263-ugly-number](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0263-ugly-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/aviothicxey/DSA-LC/tree/main/0836-rectangle-overlap/) | Easy |
 | [1140-stone-game-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1140-stone-game-ii/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aviothicxey/DSA-LC/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
