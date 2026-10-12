@@ -431,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/aviothicxey/DSA-LC/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0263-ugly-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0728-self-dividing-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/aviothicxey/DSA-LC/tree/main/0836-rectangle-overlap/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1140-stone-game-ii/) | Medium |
