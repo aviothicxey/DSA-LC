@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/aviothicxey/DSA-LC/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aviothicxey/DSA-LC/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aviothicxey/DSA-LC/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/aviothicxey/DSA-LC/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/aviothicxey/DSA-LC/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/aviothicxey/DSA-LC/tree/main/0027-remove-element/) | Easy |
