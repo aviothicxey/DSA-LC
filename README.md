@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Hard/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/aviothicxey/DSA-LC/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/aviothicxey/DSA-LC/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1140-stone-game-ii/) | Medium |
