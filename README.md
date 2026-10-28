@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/aviothicxey/DSA-LC/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/aviothicxey/DSA-LC/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/aviothicxey/DSA-LC/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/aviothicxey/DSA-LC/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/aviothicxey/DSA-LC/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/aviothicxey/DSA-LC/tree/main/0056-merge-intervals/) | Medium |
@@ -562,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/0022-generate-parentheses/) | Medium |
+| [0051-n-queens](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Hard/0051-n-queens/) | Hard |
 | [0126-word-ladder-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0126-word-ladder-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aviothicxey/DSA-LC/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -718,4 +720,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Hard/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
