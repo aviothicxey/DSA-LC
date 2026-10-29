@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aviothicxey/DSA-LC/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/aviothicxey/DSA-LC/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aviothicxey/DSA-LC/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/aviothicxey/DSA-LC/tree/main/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aviothicxey/DSA-LC/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0263-ugly-number/) | Easy |
@@ -724,4 +726,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Hard/0051-n-queens/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
