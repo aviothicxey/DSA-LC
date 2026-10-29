@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/aviothicxey/DSA-LC/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aviothicxey/DSA-LC/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aviothicxey/DSA-LC/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1563-stone-game-v](https://github.com/aviothicxey/DSA-LC/tree/main/1563-stone-game-v/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/aviothicxey/DSA-LC/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/aviothicxey/DSA-LC/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1140-stone-game-ii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aviothicxey/DSA-LC/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aviothicxey/DSA-LC/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/aviothicxey/DSA-LC/tree/main/1872-stone-game-viii/) | Hard |
