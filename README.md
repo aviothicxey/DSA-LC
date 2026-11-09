@@ -410,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/aviothicxey/DSA-LC/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/aviothicxey/DSA-LC/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/aviothicxey/DSA-LC/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aviothicxey/DSA-LC/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
@@ -448,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/aviothicxey/DSA-LC/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aviothicxey/DSA-LC/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0263-ugly-number/) | Easy |
@@ -732,4 +734,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0069-sqrtx/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
