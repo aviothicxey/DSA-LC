@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/aviothicxey/DSA-LC/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aviothicxey/DSA-LC/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1140-stone-game-ii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aviothicxey/DSA-LC/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/aviothicxey/DSA-LC/tree/main/1510-stone-game-iv/) | Hard |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0728-self-dividing-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/aviothicxey/DSA-LC/tree/main/0836-rectangle-overlap/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/aviothicxey/DSA-LC/tree/main/1140-stone-game-ii/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aviothicxey/DSA-LC/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/aviothicxey/DSA-LC/tree/main/1510-stone-game-iv/) | Hard |
@@ -738,4 +740,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
