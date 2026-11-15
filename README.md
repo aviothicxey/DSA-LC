@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/aviothicxey/DSA-LC/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/aviothicxey/DSA-LC/tree/main/0135-candy/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aviothicxey/DSA-LC/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aviothicxey/DSA-LC/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0200-number-of-islands](https://github.com/aviothicxey/DSA-LC/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0204-count-primes/) | Medium |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/aviothicxey/DSA-LC/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aviothicxey/DSA-LC/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0542-01-matrix](https://github.com/aviothicxey/DSA-LC/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/1137-n-th-tribonacci-number/) | Easy |
