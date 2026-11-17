@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/aviothicxey/DSA-LC/tree/main/0088-merge-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/aviothicxey/DSA-LC/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/aviothicxey/DSA-LC/tree/main/0148-sort-list/) | Medium |
+| [0567-permutation-in-string](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aviothicxey/DSA-LC/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aviothicxey/DSA-LC/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Stack
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviothicxey/DSA-LC/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0500-keyboard-row](https://github.com/aviothicxey/DSA-LC/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/aviothicxey/DSA-LC/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/aviothicxey/DSA-LC/tree/main/0705-design-hashset/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/aviothicxey/DSA-LC/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0997-find-the-town-judge](https://github.com/aviothicxey/DSA-LC/tree/main/0997-find-the-town-judge/) | Easy |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/aviothicxey/DSA-LC/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/aviothicxey/DSA-LC/tree/main/0394-decode-string/) | Medium |
 | [0500-keyboard-row](https://github.com/aviothicxey/DSA-LC/tree/main/0500-keyboard-row/) | Easy |
+| [0567-permutation-in-string](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/aviothicxey/DSA-LC/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
@@ -561,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aviothicxey/DSA-LC/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Hard/0239-sliding-window-maximum/) | Hard |
+| [0567-permutation-in-string](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/aviothicxey/DSA-LC/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aviothicxey/DSA-LC/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aviothicxey/DSA-LC/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
