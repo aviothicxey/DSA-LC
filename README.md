@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aviothicxey/DSA-LC/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aviothicxey/DSA-LC/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aviothicxey/DSA-LC/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aviothicxey/DSA-LC/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aviothicxey/DSA-LC/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/aviothicxey/DSA-LC/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aviothicxey/DSA-LC/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aviothicxey/DSA-LC/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aviothicxey/DSA-LC/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/aviothicxey/DSA-LC/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aviothicxey/DSA-LC/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aviothicxey/DSA-LC/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aviothicxey/DSA-LC/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aviothicxey/DSA-LC/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aviothicxey/DSA-LC/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -609,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0204-count-primes/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aviothicxey/DSA-LC/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/aviothicxey/DSA-LC/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aviothicxey/DSA-LC/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Hard/3886-sum-of-sortable-integers/) | Hard |
@@ -636,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Medium/0204-count-primes/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aviothicxey/DSA-LC/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aviothicxey/DSA-LC/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aviothicxey/DSA-LC/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
